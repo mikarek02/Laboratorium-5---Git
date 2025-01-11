@@ -1,1 +1,2 @@
 Zawartość drugiego pliku
+Nowa zawartość w plik2.txt
