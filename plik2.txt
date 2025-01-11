@@ -1,2 +1,3 @@
 Zawartość drugiego pliku
 Nowa zawartość w plik2.txt
+Zmodyfikowano plik2.txt
