@@ -1,2 +1,3 @@
 Pierwsza zawartość
 Zmieniona zawartość
+Nowa zawartość w plik1.txt
