@@ -1,0 +1,21 @@
+DiskPart, które posłużyły do sformatowania pendrive'a:
+
+list disk
+Wyświetlenie listy dostępnych dysków.
+
+select disk 1
+Wybranie dysku nr 1 (pendrive) jako aktualnie aktywnego dysku.
+
+clean
+Wyczyszczenie wybranego dysku ze wszystkich danych i partycji.
+
+create partition primary
+Utworzenie podstawowej partycji na wybranym dysku.
+
+format fs=fat32 quick
+Sformatowanie partycji w systemie plików FAT32 z użyciem szybkiego formatowania.
+
+assign
+Przypisanie litery dysku lub punktu montowania do utworzonej partycji.
+
+To wszystkie kroki wykonane w celu sformatowania pendrive’a za pomocą DiskPart.
